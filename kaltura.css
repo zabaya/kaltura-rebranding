@@ -1,1 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+body{
+background-color: #fff !important}
+
+p,a {
+font-family: 'Nunito', sans-serif !important;}
+
+h1,h2,h3,h4,h5,h6 {
+color: #0B3442 !important; 
+font-family: 'Montserrat', sans-serif;
+font-weight: 900 !important;}
+
+.entryTitle {
+font-family: 'Montserrat', sans-serif;
+font-weight: 900 !important;}
+
+/* blue text */
+
+.entryTitle, h1, h2, h3, h4, h5, h6, p, .normalWordBreak, .data, .first, #entrySideBarPane-Related-2
+{
+color: #0B3442 !important;
+
+}
