@@ -7,7 +7,7 @@ p,a {
 font-family: 'Nunito', sans-serif !important;}
 
 h1,h2,h3,h4,h5,h6 {
-color: #0B3442 !important; 
+color: #0B3442 !important;
 font-family: 'Montserrat', sans-serif;
 font-weight: 900 !important;}
 
@@ -20,5 +20,6 @@ font-weight: 900 !important;}
 .entryTitle, h1, h2, h3, h4, h5, h6, p, .normalWordBreak, .data, .first, #entrySideBarPane-Related-2
 {
 color: #0B3442 !important;
-
 }
+
+/* check of de commit werkt! */
